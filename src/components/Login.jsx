@@ -89,6 +89,11 @@ function Login() {
 </div>
 
 </div>
+<p className="disclaimer">
+  This is a demo project for learning purposes only.
+  Not affiliated with Instagram.
+</p>
+
 
     </div>
   </div>
