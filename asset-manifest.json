@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/instagram-login-react/static/css/main.56d938cf.css",
-    "main.js": "/instagram-login-react/static/js/main.ca29283e.js",
+    "main.css": "/instagram-login-react/static/css/main.c135d063.css",
+    "main.js": "/instagram-login-react/static/js/main.72678d19.js",
     "static/js/453.bf1534a3.chunk.js": "/instagram-login-react/static/js/453.bf1534a3.chunk.js",
     "static/media/phone.png": "/instagram-login-react/static/media/phone.1b343690f56137a61ec9.png",
     "index.html": "/instagram-login-react/index.html",
-    "main.56d938cf.css.map": "/instagram-login-react/static/css/main.56d938cf.css.map",
-    "main.ca29283e.js.map": "/instagram-login-react/static/js/main.ca29283e.js.map",
+    "main.c135d063.css.map": "/instagram-login-react/static/css/main.c135d063.css.map",
+    "main.72678d19.js.map": "/instagram-login-react/static/js/main.72678d19.js.map",
     "453.bf1534a3.chunk.js.map": "/instagram-login-react/static/js/453.bf1534a3.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.56d938cf.css",
-    "static/js/main.ca29283e.js"
+    "static/css/main.c135d063.css",
+    "static/js/main.72678d19.js"
   ]
 }
