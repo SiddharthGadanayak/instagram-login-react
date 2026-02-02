@@ -1,3 +1,7 @@
+## Disclaimer
+This project is created for educational purposes only.
+It is a UI clone and is not affiliated with or endorsed by Instagram.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
