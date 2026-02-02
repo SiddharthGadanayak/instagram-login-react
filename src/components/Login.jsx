@@ -88,10 +88,6 @@ function Login() {
         </div>
 
         {/* DISCLAIMER */}
-        <p className="disclaimer">
-          This is a demo project for educational and learning purposes only.
-          Not affiliated with Instagram.
-        </p>
       </div>
     </div>
   );
